@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Nur+Ayca+İlhan&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;I+am+Nur+Ayca+İlhan&center=true&size=27">
   </a>
 </h1>
 
@@ -8,13 +8,13 @@
 
 - 👩🏼‍💻 I’m computer science and engineering student
 - 💬 Ask me about anything related to computer science 
-- 📫 How to reach me: nuraycailhan@gmail.com
 - 🌍 I'm based in Istanbul/Turkey and looking for new opportunities around the world
+- 📫 How to reach me: nuraycailhan@gmail.com
 
 <br></br>
 
 <h2 align="center">
-Who am I 👀 
+Who am I?
 </h2>
 Junior Computer Science and Engineering student at Sabanci University. Loves artificial intelligence and natural sciences. Had four internships. I can speak 3 languages; such as Turkish, English and German.
 </p>
@@ -22,7 +22,7 @@ Junior Computer Science and Engineering student at Sabanci University. Loves art
 <br>
 
 <h2 align="center">
-Connect with me 
+Connect with me! 
 </h2>
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>, and learn more about me through the site. Do not forget to visit my social media accounts below to get to know me. <br>
