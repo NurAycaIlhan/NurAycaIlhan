@@ -7,6 +7,7 @@
 ### Hi there, I am Nur Ayca İlhan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 - 👩🏼‍💻 I’m computer science and engineering graduate
+- 👩🏼‍💻 Currently MSc Student at Regent's University London
 - 💬 Ask me about anything related to computer science 
 - 🌍 I'm based in London and looking for new opportunities around the world
 - 📫 How to reach me: nuraycailhan@gmail.com
@@ -16,7 +17,7 @@
 <h2 align="center">
 Who am I?
 </h2>
-Junior Computer Science and Engineering student at Sabanci University. Loves artificial intelligence and natural sciences. Had four internships. I can speak 3 languages; such as Turkish, English and German.
+Computer Science and Engineering graduate from Sabanci University. Loves artificial intelligence and natural sciences. I can speak 3 languages; such as Turkish, English and German.
 </p>
 <center>
 <br>
