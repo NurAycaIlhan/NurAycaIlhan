@@ -6,9 +6,9 @@
 
 ### Hi there, I am Nur Ayca İlhan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-- 👩🏼‍💻 I’m computer science and engineering student
+- 👩🏼‍💻 I’m computer science and engineering graduate
 - 💬 Ask me about anything related to computer science 
-- 🌍 I'm based in Istanbul/Turkey and looking for new opportunities around the world
+- 🌍 I'm based in London and looking for new opportunities around the world
 - 📫 How to reach me: nuraycailhan@gmail.com
 
 <br></br>
